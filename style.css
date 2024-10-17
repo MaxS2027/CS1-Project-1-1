@@ -1,1 +1,21 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+Body{
+    background-color: aquamarine;
+}
+ol{
+    Font-family : playfair display ;
+}
+h1{
+background-color: rgb(180,  25, 60);
+}
+h2{
+    background-color: rgb(80,  125, 260);
+}
+.nolist{
+    font-size: larger ;
+}
+.center{
+    margin: auto ;
+    text-align : center ;
+}
