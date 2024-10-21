@@ -1,21 +1,29 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
 Body{
-    background-color: aquamarine;
+    background-color: rgba(0, 0, 0, 0);
+     color: white;
 }
 ol{
     Font-family : playfair display ;
 }
 h1{
-background-color: rgb(180,  25, 60);
+background-color: rgb(40,  25, 60);
 }
 h2{
-    background-color: rgb(80,  125, 260);
+    background-color: rgb(80,  25, 60);
 }
 .nolist{
-    font-size: larger ;
+    font-size: large ;
+    font-family: Agdasima ;
+
 }
 .center{
     margin: auto ;
     text-align : center ;
+}
+img{
+    border-style:solid ;
+    border-color: white ;
 }
